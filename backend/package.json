@@ -1,0 +1,31 @@
+{
+  "name": "flubu",
+  "version": "1.0.0",
+  "description": "This is a project to monitor my paragliding flights.",
+  "main": "server.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maschuep/flubu.git"
+  },
+  "keywords": [
+    "paragliding",
+    "flight",
+    "tracker",
+    "xc",
+    "flights",
+    "tracking",
+    "software"
+  ],
+  "author": "Manuel Schüpbach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maschuep/flubu/issues"
+  },
+  "homepage": "https://github.com/maschuep/flubu#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
